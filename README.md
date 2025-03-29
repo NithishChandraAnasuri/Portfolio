@@ -4,7 +4,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a frontend developer.
 
 ## 🚀 Live Demo
-Check out my portfolio live:  https://nithishchandraanasuri.github.io/Portfolio/ (#)
+Check out my portfolio live:  https://nithishchandraanasuri.github.io/Portfolio/
 
 ## 📌 Features
 - Fully responsive design
