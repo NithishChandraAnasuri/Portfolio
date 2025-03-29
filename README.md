@@ -32,7 +32,8 @@ Check out my portfolio live:  https://nithishchandraanasuri.github.io/Portfolio/
 3. Open `index.html` in your browser.
 
 ## 📸 Screenshots
-![Portfolio Screenshot](#)
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/ef8a6734-461b-46f1-b87e-2311599090a6" />
+
 
 ## 🤝 Contributing
 Feel free to submit pull requests or report issues.
